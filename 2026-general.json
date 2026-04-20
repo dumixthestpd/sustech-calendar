@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "year": 2026,
+    "source": "https://www.sustech.edu.cn/zh/academic-calendar.html",
+    "generated_by": "sk2gog",
+    "lang": "zh"
+  },
+  "holidays": [
+    {
+      "name": "春节",
+      "date": "2026-02-17",
+      "end": "2026-02-23",
+      "note": "春节假期"
+    },
+    {
+      "name": "清明节",
+      "date": "2026-04-05",
+      "end": "2026-04-05",
+      "note": "清明节"
+    },
+    {
+      "name": "劳动节",
+      "date": "2026-05-01",
+      "end": "2026-05-01",
+      "note": "劳动节"
+    },
+    {
+      "name": "端午节",
+      "date": "2026-06-19",
+      "end": "2026-06-19",
+      "note": "端午节"
+    }
+  ]
+}
