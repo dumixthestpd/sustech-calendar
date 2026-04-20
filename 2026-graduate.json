@@ -9,7 +9,7 @@
   "semester": {
     "week_1_monday": "2026-02-23",
     "first_teaching_day": "2026-02-25",
-    "total_teaching_weeks": 17,
+    "total_teaching_weeks": 15,
     "semester_end": "2026-07-05"
   },
   "exam_weeks": [
@@ -47,15 +47,5 @@
       "name": "上单周周一的课",
       "category": "compensatory"
     }
-  ],
-  "notable_events": [
-    {"date": "2026-03-01", "name": "春季战略规划发展研讨会"},
-    {"date": "2026-03-05", "name": "安全工作会议"}
-  ],
-  "admin_meetings": [
-    {"date": "2026-05-08", "name": "校学位评定委员会第一次会议"},
-    {"date": "2026-05-29", "name": "研究系列晋升评估会议"},
-    {"date": "2026-06-17", "name": "校学位评定委员会第二次会议"},
-    {"date": "2026-06-30", "name": "校学位评定委员会第三次会议"}
   ]
 }
