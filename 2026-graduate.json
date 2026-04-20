@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "year": 2026,
+    "program": "graduate",
+    "source": "https://www.sustech.edu.cn/zh/academic-calendar.html",
+    "generated_by": "sk2gog",
+    "lang": "zh"
+  },
+  "semester": {
+    "week_1_monday": "2026-02-23",
+    "first_teaching_day": "2026-02-25",
+    "total_teaching_weeks": 17,
+    "semester_end": "2026-07-05"
+  },
+  "week_pattern": {
+    "teaching_weeks": {
+      "odd_weeks": [1, 3, 5, 7, 9, 11, 13, 15, 17],
+      "even_weeks": [2, 4, 6, 8, 10, 12, 14, 16],
+      "class_days": {
+        "1": ["Mon", "Wed", "Fri"],
+        "0": ["Tue", "Thu"]
+      }
+    }
+  },
+  "exam_weeks": [
+    {
+      "type": "midterm",
+      "start": "2026-04-13",
+      "end": "2026-04-26",
+      "note": "研究生期中考试周（不停课）"
+    },
+    {
+      "type": "final",
+      "start": "2026-06-08",
+      "end": "2026-06-18",
+      "note": "研究生期末复习考试周"
+    }
+  ],
+  "summer": {
+    "summer_term_start": "2026-06-29",
+    "summer_term_end": "2026-08-07",
+    "summer_break_start": "2026-06-29"
+  },
+  "special_days": [
+    {
+      "date": "2026-04-04",
+      "name": "第七届春季运动会",
+      "category": "event"
+    },
+    {
+      "date": "2026-04-12",
+      "name": "校园开放日",
+      "category": "event"
+    },
+    {
+      "date": "2026-02-28",
+      "name": "上单周周一的课",
+      "category": "compensatory"
+    }
+  ],
+  "notable_events": [
+    {"date": "2026-03-01", "name": "春季战略规划发展研讨会"},
+    {"date": "2026-03-05", "name": "安全工作会议"}
+  ],
+  "admin_meetings": [
+    {"date": "2026-05-08", "name": "校学位评定委员会第一次会议"},
+    {"date": "2026-05-29", "name": "研究系列晋升评估会议"},
+    {"date": "2026-06-17", "name": "校学位评定委员会第二次会议"},
+    {"date": "2026-06-30", "name": "校学位评定委员会第三次会议"}
+  ]
+}
